@@ -15,18 +15,18 @@
 In general, churn is expressed as a degree of customer inactivity or disengagement, observed over a given time. This manifests within the data in various forms such as the recency of account actions or change in the account balance
 
 ## Aim:
-# We aim to accomplist the following for this study: 
+### We aim to accomplist the following for this study: 
 Identify and visualize which factors contribute to customer churn:
-# Build a prediction model that will perform the following:
+### Build a prediction model that will perform the following:
 Classify if a customer is going to churn or not
 
 Preferably and based on model performance, choose a model that will attach a probability to the churn to make it easier for customer service to target low hanging fruits in their efforts to prevent churn
 
-# We will be using ANN models and H2O Auto ML in this project
+### We will be using ANN models and H2O Auto ML in this project
 
 ![H2o](h20.png)
 
-An AutoML system based on Keras. It is developed by DATA Lab at Texas A&M University
+H2O is a fully open-source, distributed in-memory machine learning platform with linear scalability. H2O supports the most widely used statistical & machine learning algorithms, including gradient boosted machines, generalized linear models, deep learning, and many more.
 
 ## Approach
 Data Exploration : I started exploring dataset using pandas,numpy,matplotlib and seaborn.
